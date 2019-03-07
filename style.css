@@ -10,7 +10,7 @@ header, section, footer, aside, nav, article,hgroup{
 /*---------------------BODY---------------------*/
 
 body{
-    background: #7dd2f8;
+    background: #153651;
     width: 100%;
     display: -webkit-box;
     -webkit-box-pack: center;
@@ -32,7 +32,7 @@ body{
 /* ---------------------NAVBAR--------------------- */
 
 .navbar{
-    background: #f8dd00;
+    background: #f5c84e;
     margin: 0px;
     border: none;
     -webkit-border-radius:0px;
@@ -53,7 +53,7 @@ body{
 }
 
 .popup{
-    background: #ffe733;
+    background: #f7d26e;
     box-shadow:#292F33 0 0 5px;
 }
 
@@ -73,7 +73,7 @@ body{
 }
 
 .navbar-toggle{
-    background-color: #ffe733;
+    background-color: #f5c84e;
     box-shadow:#292F33 0 0 5px;
 }
 
@@ -120,7 +120,7 @@ p{
 /*--------------------- MAPS ---------------------*/
 
 #lokacija{
-    background: #fbea61;
+    background: #f7d26e;
     box-shadow: #292F33 0 0 5px;
 }
 
@@ -164,30 +164,13 @@ p{
 
 footer{
     text-align: center;
-    background: #fbea61;
+    background: #f7d26e;
     box-shadow:#292F33 0 0 5px;
 }
 
 /* ---------------------KONTAKT-------------------------------*/
 #kontakt{
     text-align: center;
-}
-
-#tipka{
-	
-    background: #b2b2b2; 
-    font: bold 20px 'Oswald', sans-serif;
-    color: black;
-    padding: 3px;
-    box-shadow: #292F33 0 0 10px; 
-}
-
-.alert{
-    background: #fbea61;
-    color: #292F33;
-    border: solid 2px #b2b2b2;
-    position: center;
-    box-shadow:#292F33 0 0 20px; /*1. je 10px desno (ako stavim -10 onda je lijevo), 2. je 10px dolje, 3. je jačina blur-a*/
 }
 
 /* ---------------------GALERIJA-------------------------------*/
