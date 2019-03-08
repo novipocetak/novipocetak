@@ -17,7 +17,7 @@ body{
 }
 
 #big-wrapper{
-    border: solid 2px #b2b2b2;
+    border: solid 3px #b2b2b2;
     background: #E1E8ED;
     max-width: 1200px;
     margin: 0px 0px;
@@ -90,27 +90,28 @@ body{
 }
 
 h5{
-    padding: 10px;
+    padding: 15px;
     font: bold 18px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
 }
 
 h4{
-    padding: 5px;
+    padding: 15px;
     font: bold 24px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
 }
 
 h3{
-    padding: 5px;
+    padding: 15px;
     font: bold 32px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
 }
 
 p{
+    padding: 15px;
     font: bold 20px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
