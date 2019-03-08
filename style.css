@@ -90,28 +90,27 @@ body{
 }
 
 h5{
-    padding: 15px;
+    padding: 10px;
     font: bold 18px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
 }
 
 h4{
-    padding: 15px;
+    padding: 5px;
     font: bold 24px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
 }
 
 h3{
-    padding: 15px;
+    padding: 5px;
     font: bold 32px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
 }
 
 p{
-    padding: 15px;
     font: bold 20px 'Oswald', sans-serif;
     text-align: center;
     color: #292F33;
